@@ -12,9 +12,14 @@ Bu sayfada marka listesi bulunmaktadır. Arama yapma bölümünden arama işleml
 Marka Ekle:
 Bu sayfada marka ekleme işlemi yapılmaktadır. Sadece marka bilgisi girilerek ekle butona basıldığında sisteme yeni marka eklenmektedir. Marka isimleri uniq olduğu için aynı marka isminden birden çok kayıt yapılamamaktadır.
 
-
 Marka Düzenle:
 Bu sayfada marka düzenleme işlemi yapılmaktadır. Sadece marka bilgisi girilerek düzenle butona basıldığında sistemdeki marka güncelleştirilir. Marka isimleri uniq olduğu için aynı marka isminden birden çok kayıt yapılamamaktadır.
+
+
+
+
+
+
 
 Model:
 Bu sayfada model listesi bulunmaktadır. Arama yapma bölümünden arama işlemleri gerçekleştirilebilir (markaya veya modele göre). Model ekle butonuna tıklayarak model ekleme sayfasına gidilebilir. Düzenle butonuna tıklayarak seçilen modelin düzenlenmesi işlemini yapabilirsiniz. Sil butonuna tıkladığınızda seçilen modelin silinmek istediğine emin misiniz şeklinde popup çıkmaktadır.  Seçim evet ise model silinir. Seçim hayır ise işlem iptal edilir.
@@ -40,3 +45,4 @@ Hesap bilgilerinin gösterildiği ve düzenleme işlemleri yapılabilmektedir. 2
 2-) Hesap bilgileri düzenle: Kullanıcının adı, soyadı ve eposta adresini değiştirebildiği alandır. Değişiklik yapabilmesi için geçerli şifreyi kullanması gereklidir.
 Çıkış Yap:
 Kullanıcının session bilgilerini siler ve giriş sayfasına yönlendirir.
+
